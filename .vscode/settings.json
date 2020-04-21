@@ -1,0 +1,10 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}/geographySummarySql/import.sqlite",
+            "dialect": "SQLite",
+            "name": "CodeDB"
+        }
+    ]
+}
